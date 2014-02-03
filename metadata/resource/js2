@@ -1,0 +1,13 @@
+{
+    "type": "jsresource",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "js2",
+        "url": "renderMapJS.js"
+    },
+    "designerId": "05925f75-3c77-4ac8-8eea-3bb904110dea"
+}
